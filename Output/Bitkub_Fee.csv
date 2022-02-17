@@ -1,0 +1,82 @@
+coin_name,chain_name,withdrawal_fees
+Civic(CVC),ETH (ERC20),102.00000000 
+Bitcoin SV(BSV),BSV,0.0004 
+Ethereum(ETH),ETH (ERC20),0.00625000 
+Bitkub Coin(KUB),BKC (KAP20),0.01 
+Compound(COMP),ETH (ERC20),0.23000000 
+Curve DAO Token(CRV),ETH (ERC20),.80000000 
+Axie Infinity(AXS),ETH (ERC20),0.49000000 
+The Sandbox(SAND),ETH (ERC20),7.45000000 
+XRP(XRP),XRP,0.25 
+ChainLink Token(LINK),ETH (ERC20),1.82000000 
+KyberNetwork(KNC),ETH (ERC20),4 
+Stellar(XLM),XLM,0.02 
+Six(SIX),XLM,1 
+Everex(EVX),ETH (ERC20),114.00000000 
+Alpha Finance Lab(ALPHA),ETH (ERC20),78.00000000 
+Balancer(BAL),ETH (ERC20),2.06000000 
+Litecoin(LTC),LTC,0.001 
+IOSToken(IOST),IOST,1 
+Cortex Coin(CTXC),ETH (ERC20),0.1 
+NEAR(NEAR),NEAR,0.01 
+Aave(AAVE),ETH (ERC20),0.29000000 
+Raiden Network Token(RDN),ETH (ERC20),55.00000000 
+JFIN Coin(JFIN),ETH (ERC20),5.75000000 
+Basic Attention Token(BAT),ETH (ERC20),37.00000000 
+Zilliqa(ZIL),ZIL,0.2 
+Polkadot(DOT),DOT,0.1 
+SushiSwap(SUSHI),ETH (ERC20),7.30000000 
+Bitcoin Cash(BCH),BCH,0.001 
+Cardano(ADA),ADA,1 
+BNB Coin(BNB),BNB (BEP2),0.00100000 
+Power Ledger(POW),ETH (ERC20),52.00000000 
+Secret Network(SCRT),SCRT,0.1 
+yearn.finance(YFI),ETH (ERC20),0.00130000 
+Bitcoin(BTC),BTC,0.0005 
+OmiseGO(OMG),ETH (ERC20),6.50000000 
+Tether(USDT),ETH (ERC20),35.00000000 
+Dogecoin(DOGE),DOGE,5 
+USD Coin(USDC),ETH (ERC20),35.00000000 
+Maker(MKR),ETH (ERC20),0.01500000 
+Enjin Coin(ENJ),ETH (ERC20),15.00000000 
+Kusama(KSM),KSM,0.01 
+Donnie Finance(DON),IOST,0.00780000 
+Wancoin(WAN),WAN,0.1 
+StatusNetwork(SNT),ETH (ERC20),521.00000000 
+0x(ZRX),ETH (ERC20),46.00000000 
+Arcblock(ABT),ETH (ERC20),35 
+Decentraland(MANA),ETH (ERC20),.38000000 
+Dai Stablecoin(DAI),ETH (ERC20),15 
+Band Protocol(BAND),BAND,0.01 
+Golem Network Token(GLM),ETH (ERC20),3.00000000 
+Uniswap(UNI),ETH (ERC20),2.78000000 
+FTX Token(FTT),ETH (ERC20),0.68000000 
+Ocean Protocol(OCEAN),ETH (ERC20),39 
+Synthetix(SNX),ETH (ERC20),7.05 
+Boba Token(BOBA),ETH (ERC20),10.00000000 
+Gala(GALA),ETH (ERC20),3.00000000 
+GateToken(GT),ETH (ERC20),.5 
+Songbird(SGB),SGB,1 
+GuildFi(GF),ETH (ERC20),10 
+Immutable X(IMX),ETH (ERC20),13.00000000 
+Ethereum Name Service(ENS),ETH (ERC20),1.77000000 
+dYdX(DYDX),ETH (ERC20),12.00000000 
+Illuvium(ILV),ETH (ERC20),0.04600000 
+Aavegotchi(GHST),ETH (ERC20),13 
+Chiliz(CHZ),ETH (ERC20),105 
+The Graph(GRT),ETH (ERC20),48 
+Gods Unchained(GODS),ETH (ERC20),12 
+Convex Finance(CVX),ETH (ERC20),1.8 
+LUKSO(LYXE),ETH (ERC20),1.5 
+Crypto.com Coin(CRO),ETH (ERC20),31 
+Yield Guild Game(YGG),ETH (ERC20),5.42 
+Smooth Love Potion(SLP),ETH (ERC20),519 
+Coin98(C98),ETH (ERC20),11 
+ShuttleOne(SZO),ETH (ERC20),170 
+Popcoin(POP),BKC (KAP20),40 
+Experimental Finance(EXFI),SGB,0.1 
+Solana(SOL),SOL,0.01 
+Avalanche(AVAX),AVAX_C (AVAX),0.01 
+Polygon(MATIC),MATIC (Polygon),0.1 
+Fantom(FTM),FTM (Fantom),0.01 
+Terra(LUNA),LUNA (Terra),0.02 
